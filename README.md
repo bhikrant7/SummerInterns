@@ -1,2 +1,0 @@
-# SummerInterns
-Internship Project
