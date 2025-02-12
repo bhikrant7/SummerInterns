@@ -6,14 +6,14 @@ and MSE of 0.012 for CGPA
 
 
 Concepts learnt:
-Neural Networks
-Backpropagation
-EarlyStopping
-Regularization
-LSTM(Long Short Term Memory)
-BiLSTMs
-Hyperparameter tuning using GridSearch or RandomSearch
-Metaheuristic algorithms like Genetic Algorithm
+Neural Networks,
+Backpropagation,
+EarlyStopping,
+Regularization,
+LSTM(Long Short Term Memory),
+BiLSTMs,
+Hyperparameter tuning using GridSearch or RandomSearch,
+Metaheuristic algorithms like Genetic Algorithm, etc.
 
 
 
